@@ -22,6 +22,8 @@
   ![Step 4](https://raw.githubusercontent.com/testfairy/testfairy-unity-plugin/master/Images/step4.png)
 
  Here is the code, for easy copy-pasting:
+ 
+ Note: If you might receive compile errors when building in XCode if you don't use the Replace Build option when building from Unity for the time. 
 
  ```
  using UnityEngine;
